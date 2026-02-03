@@ -14,17 +14,18 @@ Xây dựng ứng dụng Task List gồm:
 ## 🖼️ Demo giao diện
 
 ### 📌 Task List Screen
-![Task List](assets/demo/demo1.png)
+![Task List](assets/images/demo1.png)
 
 ### 📌 Add Task Screen
-![Add Task](assets/demo/demo2.png)
+![Add Task](assets/images/demo2.png)
 
 ### 📌 After Add Task
-![After Add](assets/demo/demo3.png)
+![After Add](assets/images/demo3.png)
 
 ## Cách chạy project
 
 ```bash
 flutter pub get
 flutter run
+
 
